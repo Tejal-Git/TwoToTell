@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(231, 242, 221);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 1px;
+    border-color: rgb(159, 234, 84);
+    color: rgb(189, 0, 0);
+}
+ul{
+    color: darkgreen;
+}
